@@ -258,7 +258,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <div class="card">
                     <div class="card-header">
                         <h3><a href="sua_pagina_de_criacao_de_usuario.php" style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <img src="https://i.imgur.com/kOwxvUW.png" alt="Criar Novo Usuário GLPI" style="max-width: 100%; height: auto;" />
+    <img src="sua logo" alt="Criar Novo Usuário GLPI" style="max-width: 100%; height: auto;" />
 </a>
 </h3>
                     </div>
